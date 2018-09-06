@@ -40,3 +40,8 @@ e.g.
     $ ls
     seeds.csv
     addresses.txt
+
+
+Note, this is a modified version of:
+
+    https://github.com/iketheadore/genskyaddress
